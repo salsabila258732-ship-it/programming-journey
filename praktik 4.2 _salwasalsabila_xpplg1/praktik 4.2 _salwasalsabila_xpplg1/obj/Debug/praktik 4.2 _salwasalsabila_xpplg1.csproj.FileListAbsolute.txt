@@ -1,0 +1,7 @@
+C:\Users\Zyrex\Documents\salwa salsabila xpplg1\praktik 4.2 _salwasalsabila_xpplg1\praktik 4.2 _salwasalsabila_xpplg1\bin\Debug\praktik 4.2 _salwasalsabila_xpplg1.exe.config
+C:\Users\Zyrex\Documents\salwa salsabila xpplg1\praktik 4.2 _salwasalsabila_xpplg1\praktik 4.2 _salwasalsabila_xpplg1\bin\Debug\praktik 4.2 _salwasalsabila_xpplg1.exe
+C:\Users\Zyrex\Documents\salwa salsabila xpplg1\praktik 4.2 _salwasalsabila_xpplg1\praktik 4.2 _salwasalsabila_xpplg1\bin\Debug\praktik 4.2 _salwasalsabila_xpplg1.pdb
+C:\Users\Zyrex\Documents\salwa salsabila xpplg1\praktik 4.2 _salwasalsabila_xpplg1\praktik 4.2 _salwasalsabila_xpplg1\obj\Debug\praktik 4.2 _salwasalsabila_xpplg1.csproj.AssemblyReference.cache
+C:\Users\Zyrex\Documents\salwa salsabila xpplg1\praktik 4.2 _salwasalsabila_xpplg1\praktik 4.2 _salwasalsabila_xpplg1\obj\Debug\praktik 4.2 _salwasalsabila_xpplg1.csproj.CoreCompileInputs.cache
+C:\Users\Zyrex\Documents\salwa salsabila xpplg1\praktik 4.2 _salwasalsabila_xpplg1\praktik 4.2 _salwasalsabila_xpplg1\obj\Debug\praktik 4.2 _salwasalsabila_xpplg1.exe
+C:\Users\Zyrex\Documents\salwa salsabila xpplg1\praktik 4.2 _salwasalsabila_xpplg1\praktik 4.2 _salwasalsabila_xpplg1\obj\Debug\praktik 4.2 _salwasalsabila_xpplg1.pdb
