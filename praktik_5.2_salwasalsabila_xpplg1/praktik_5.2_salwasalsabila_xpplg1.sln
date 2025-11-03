@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praktik_5.2_salwasalsabila_xpplg1", "praktik_5.2_salwasalsabila_xpplg1\praktik_5.2_salwasalsabila_xpplg1.csproj", "{76E4EA6C-9DB5-4515-A54A-26CA956EA29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E4EA6C-9DB5-4515-A54A-26CA956EA29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E4EA6C-9DB5-4515-A54A-26CA956EA29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E4EA6C-9DB5-4515-A54A-26CA956EA29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E4EA6C-9DB5-4515-A54A-26CA956EA29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D90B660E-3180-4672-A9B8-5EC8FF186AFF}
+	EndGlobalSection
+EndGlobal
