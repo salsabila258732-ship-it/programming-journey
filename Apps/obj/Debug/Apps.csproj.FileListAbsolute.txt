@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\salwa salsabila\Apps\Apps\bin\Debug\Apps.exe.config
+C:\Users\Asus\Documents\salwa salsabila\Apps\Apps\bin\Debug\Apps.exe
+C:\Users\Asus\Documents\salwa salsabila\Apps\Apps\bin\Debug\Apps.pdb
+C:\Users\Asus\Documents\salwa salsabila\Apps\Apps\obj\Debug\Apps.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\salwa salsabila\Apps\Apps\obj\Debug\Apps.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\salwa salsabila\Apps\Apps\obj\Debug\Apps.exe
+C:\Users\Asus\Documents\salwa salsabila\Apps\Apps\obj\Debug\Apps.pdb
