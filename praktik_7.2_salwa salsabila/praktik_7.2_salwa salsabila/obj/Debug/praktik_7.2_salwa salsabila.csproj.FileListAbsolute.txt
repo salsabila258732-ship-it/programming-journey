@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.2_salwa salsabila\praktik_7.2_salwa salsabila\bin\Debug\praktik_7.2_salwa salsabila.exe.config
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.2_salwa salsabila\praktik_7.2_salwa salsabila\bin\Debug\praktik_7.2_salwa salsabila.exe
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.2_salwa salsabila\praktik_7.2_salwa salsabila\bin\Debug\praktik_7.2_salwa salsabila.pdb
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.2_salwa salsabila\praktik_7.2_salwa salsabila\obj\Debug\praktik_7.2_salwa salsabila.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.2_salwa salsabila\praktik_7.2_salwa salsabila\obj\Debug\praktik_7.2_salwa salsabila.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.2_salwa salsabila\praktik_7.2_salwa salsabila\obj\Debug\praktik_7.2_salwa salsabila.exe
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.2_salwa salsabila\praktik_7.2_salwa salsabila\obj\Debug\praktik_7.2_salwa salsabila.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.1_fungsi\praktik_7.1_fungsi\bin\Debug\praktik_7.1_fungsi.exe.config
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.1_fungsi\praktik_7.1_fungsi\bin\Debug\praktik_7.1_fungsi.exe
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.1_fungsi\praktik_7.1_fungsi\bin\Debug\praktik_7.1_fungsi.pdb
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.1_fungsi\praktik_7.1_fungsi\obj\Debug\praktik_7.1_fungsi.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.1_fungsi\praktik_7.1_fungsi\obj\Debug\praktik_7.1_fungsi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.1_fungsi\praktik_7.1_fungsi\obj\Debug\praktik_7.1_fungsi.exe
+C:\Users\Asus\Documents\salwa salsabila\praktik_7.1_fungsi\praktik_7.1_fungsi\obj\Debug\praktik_7.1_fungsi.pdb
