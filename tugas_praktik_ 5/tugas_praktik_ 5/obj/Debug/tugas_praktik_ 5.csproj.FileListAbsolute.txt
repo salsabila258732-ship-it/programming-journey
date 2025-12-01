@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\salwa salsabila\tugas_praktik_ 5\tugas_praktik_ 5\bin\Debug\tugas_praktik_ 5.exe.config
+C:\Users\Asus\Documents\salwa salsabila\tugas_praktik_ 5\tugas_praktik_ 5\bin\Debug\tugas_praktik_ 5.exe
+C:\Users\Asus\Documents\salwa salsabila\tugas_praktik_ 5\tugas_praktik_ 5\bin\Debug\tugas_praktik_ 5.pdb
+C:\Users\Asus\Documents\salwa salsabila\tugas_praktik_ 5\tugas_praktik_ 5\obj\Debug\tugas_praktik_ 5.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\salwa salsabila\tugas_praktik_ 5\tugas_praktik_ 5\obj\Debug\tugas_praktik_ 5.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\salwa salsabila\tugas_praktik_ 5\tugas_praktik_ 5\obj\Debug\tugas_praktik_ 5.exe
+C:\Users\Asus\Documents\salwa salsabila\tugas_praktik_ 5\tugas_praktik_ 5\obj\Debug\tugas_praktik_ 5.pdb

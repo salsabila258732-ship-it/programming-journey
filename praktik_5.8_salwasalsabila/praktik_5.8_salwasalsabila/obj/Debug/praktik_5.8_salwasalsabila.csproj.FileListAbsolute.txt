@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\salwa salsabila\praktik_5.8_salwasalsabila\praktik_5.8_salwasalsabila\bin\Debug\praktik_5.8_salwasalsabila.exe.config
+C:\Users\Asus\Documents\salwa salsabila\praktik_5.8_salwasalsabila\praktik_5.8_salwasalsabila\bin\Debug\praktik_5.8_salwasalsabila.exe
+C:\Users\Asus\Documents\salwa salsabila\praktik_5.8_salwasalsabila\praktik_5.8_salwasalsabila\bin\Debug\praktik_5.8_salwasalsabila.pdb
+C:\Users\Asus\Documents\salwa salsabila\praktik_5.8_salwasalsabila\praktik_5.8_salwasalsabila\obj\Debug\praktik_5.8_salwasalsabila.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\salwa salsabila\praktik_5.8_salwasalsabila\praktik_5.8_salwasalsabila\obj\Debug\praktik_5.8_salwasalsabila.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\salwa salsabila\praktik_5.8_salwasalsabila\praktik_5.8_salwasalsabila\obj\Debug\praktik_5.8_salwasalsabila.exe
+C:\Users\Asus\Documents\salwa salsabila\praktik_5.8_salwasalsabila\praktik_5.8_salwasalsabila\obj\Debug\praktik_5.8_salwasalsabila.pdb
