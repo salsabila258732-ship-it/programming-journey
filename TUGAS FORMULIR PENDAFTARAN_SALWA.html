@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulir Pendaftaran</title>
+</head>
+<body>
+    <h2>FORMULIR PENDAFTARAN CALON PESERTA BARU SMK</h2>
+    <form action="/submit" method="post">
+        <fieldset>
+            <legend>BIODATA SISWA</legend>
+            <table>
+                <tr>
+                    <td>No. UN SMP/MTs/Sederajat</td>    
+                    <td><input type="text" name="No. UN SMP/MTs/Sederajat"></td>               
+                </tr>
+                <tr>
+                    <td>Nama Lengkap</td>
+                    <td><input type="text" name="nama_lengkap"></td>
+                </tr>  
+                </table>
+                <tr>
+                    <td>Jenis Kelamin</td>              
+                    <select id="jenis_kelamin" name="jenis_kelamin">
+                    <option value="Laki-laki">Laki-laki</option>
+                    <option value="Perempuan">Perempuan</option>
+                </select>
+                </tr>
+                <table>
+                <tr>
+                    <td>Nama Orangtua/Wali</td>
+                    <td><input type="text" name="namaorangtua/wali"></td>
+                </tr>
+                <tr>
+                    <td>Alamat (sesuaiKK/KTP/Suratket.)(Domisili min 6 bulan Ortu/Walimurid calon siswa)</td>
+                    <td><input type="text" name="alamat"></td>
+                </tr>
+                <tr>
+                    <td>Kota/Kabupaten</td>
+                    <td><input type="text" name="kota/kabupaten"></td>
+                </tr>
+                <tr>
+                    <td>Asal Sekolah</td>
+                    <td><input type="text" name="asal_sekolah"></td>
+                </tr>
+                <tr>
+                    <td>Agama</td>
+                <td>
+                    <select id="agama" name="agama">
+                    <option value="Islam">Islam</option>
+                    <option value="Hindu">Hindu</option>
+                    <option value="Budha">Budha</option>
+                    <option value="Kristen">Kristen</option>
+                    <option value="Katholik">Katholik</option>
+                    <option value="Konghucu">Konghucu</option>
+                </td>
+                </tr>           
+            </table>
+        </fieldset>
+</body>
+</html>
+
+<body>
+    <form action="/submit" method="post">
+        <fieldset>
+            <legend>PENILAIAN</legend>
+            <table>
+                <tr>
+                    <td>1.Matematika</td>
+                    <td><input type="text" name="matematika"></td>
+                </tr>
+                <tr>
+                    <td>2.Bahasa Indonesia</td>
+                    <td><input type="text" name="bahasa_indonesia"></td>
+                </tr>
+                <tr>
+                    <td>3.Bahasa inggris</td>
+                    <td><input type="text" name="bahasa_inggris"></td>
+                </tr>
+                <tr>
+                    <td>4.Ilmu Pengetahuan Alam(IPA)</td>
+                    <td><input type="text" name="ilmu_pengetahuan_alam"></td> <td>Jumlah NUN</td> <td><input type="text" name="jumlah_nun"></td>
+                </tr>
+                <tr>
+                   <td>NILAI BONUS PRESTASI (NBP)</td> 
+                   <td><input type="text" name="nilai bonus prestasi (nbp)"></td>
+                </tr>
+                <tr>
+                    <td>JUMLAH TOTAL NILAI AKHIR PPDB  (Rumus : NUN + NBP)</td>
+                    <td><input type="text" name="jumlah total nilai akhir ppdb"></td>
+                </tr>
+            </table>
+        </fieldset>
+    </form>                
+</body>
+</html>
