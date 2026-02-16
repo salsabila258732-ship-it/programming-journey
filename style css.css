@@ -1,0 +1,18 @@
+/*Styles for the external CSS file */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(231, 253, 255);
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: rgb(116, 147, 240);
+    background-color: rgb(157, 175, 231);
+    text-align: center;
+    margin-top: 20px;
+}
+p {
+    color: rgb(157, 181, 252);
+    line-height: 1.6;
+    padding: 0 20px;
+}

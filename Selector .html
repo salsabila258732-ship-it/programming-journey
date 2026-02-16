@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selector dalam HTML</title>
+    <style>
+        /* Selector tag */
+        p {
+            color: mediumpurple;
+            font-size: 18px;
+        }
+        .mediumpurple {
+            width: 100px;
+            height: 100px;
+            background-color: mediumpurple;
+        }
+        #floralwhite
+        {
+            color: black;
+            background-color: floralwhite;
+        }
+        /* Selector Atibut */
+        input[type="text"]{
+            border: 2px skyblue;
+            padding: 5px;
+            border: 1px steelblue;
+        }
+    </style>
+    <div class="mediumpurple"></div>
+    <div id="floralwhite"></div>
+    
+</head>
+<body>
+    <!--Selector Tag <p>-->
+        <p>Ini adalah paragraf dalam halaman selctor.</p>
+        <!--Selector class nama class : mediumpurple-->
+        <div class="mediumpurple"></div>
+        <!--Selector id nama id : floralwhite-->
+        <div id="floralwhite">Ini adalah div dengan id floralwhite</div>
+        <!--Selector Atribut-->
+        <input type="text" placeholder="Masukkan teks di sini">
+</body>
+</html>

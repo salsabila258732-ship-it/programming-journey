@@ -1,0 +1,21 @@
+/* Styles for the external CSS file */
+body {
+    font-family:  Sans Regular, sans-serif;
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(254, 255, 254);
+    text-align: left;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+p {
+    color: rgb(255, 255, 255);
+    text-align: left;
+}

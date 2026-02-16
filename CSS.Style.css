@@ -1,0 +1,25 @@
+/* Style for the external CSS file */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(159, 101, 130);
+    margin: 0px;
+    padding: 0px;
+}
+p {
+     color: rgb(62, 56, 56);
+     font-size: 18px;
+     text-align: left;
+}
+.pink {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(68, 6, 38);
+}
+#pink {
+    color: rgb(97, 16, 30);
+    background-color: rgb(84, 6, 32);
+}
+/* Selector Universal */
+* {
+    border: 5px rgb(224, 67, 67);
+}

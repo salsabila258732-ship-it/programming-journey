@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selector dalam HTML</title>
+    <style>
+        /* Selector Tag */
+        p {
+            color: lightslategrey;
+        }
+
+        /* Selector Class */
+        .highlight {
+            background-color: black;
+        }
+
+        /* Selector ID */
+        #unique-section {
+            border: 2px sandybrown;
+            padding: 10px;
+        }
+
+        /* Selector Atribut */
+        a [href] {
+            text-decoration: none;
+            color: darksalmon;
+        }
+        /* Selector Universal */
+        * {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+    <div class="highlight"></div>
+    <div id="unique-section"></div>
+    
+</head>
+<body>
+    <h1>Contoh Penggunaan Selector dalam HTML</h1>
+    <!--Selector Tag-->
+    <p>Ini adalah paragraf yang menggunakan selector tag &lt; p&gt;.</p>
+    <!--Selector Kelas-->
+    <div class="highlight"></div>
+    <p>Ini adalah paragraf dengan kelas "highlight".</p>
+    </div>
+    <!--Selector ID-->
+    <div id="unique-section">
+    <p>Ini adalah paragraf dalam div dengan ID "unique-section".</p>
+    </div>
+    <!--Selector Atribut-->
+    <a href="https://www.ruangguru.com/blog/4-teori-masuknya-islam-ke-nusantara" target="_blank">Link dengan atribut href</a>
+    <!--Selector Universal-->
+    <p>Paragraf ini menggunakan selector universal.</p>
+</body>
+</html>
