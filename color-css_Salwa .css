@@ -1,0 +1,44 @@
+
+h1 {
+    color: maroon;
+}
+
+/* Paragraf 1 */
+.p1 {
+    background-color: white;
+    color: crimson;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Paragraf 2 */
+.p2 {
+    background-color: cadetblue;
+    color: #6495ED;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Paragraf 3 */
+.p3 {
+    background-color: bisque;
+    color: rgb(165, 42, 42);
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Paragraf 4 */
+.p4 {
+    background-color: black;
+    color: rgba(255, 255, 255, 1);
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Paragraf 5 */
+.p5 {
+    background-color: aliceblue;
+    color: hsl(240, 100%, 25%);
+    padding: 20px;
+    margin: 10px;
+}
