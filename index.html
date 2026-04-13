@@ -3,12 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eksternal CSS</title>
-    <!--Menghubungkan file CSS-->
-    <link rel="stylesheet" href="style css.css"> 
+    <title>Tugas pseudo class</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 style="color: rgb(27, 82, 184);">Hallo World</h1> 
-    <p style="color: rgb(27, 82, 184);">Ini adalah contoh penggunaan external CSS.</p>
+    <nav role="navigation">
+        <ul>
+            <li> <a href="#">One</a>
+             <ul class="dropdown">
+                <li> <a href="#">Sub-1</a></li>
+                <li> <a href="#">Sub-2</a></li>
+                <li> <a href="#">Sub-3</a></li>
+             </ul>
+            </li>
+            <li> <a href="#">Two</a>
+            <ul class="dropdown">
+                <li> <a href="#">Sub-1</a></li>
+                <li> <a href="#">Sub-2</a></li>
+                <li> <a href="#">Sub-3</a></li>
+            </ul>
+            </li>
+
+            <li> <a href="#">Three</a>
+            <ul class="dropdown">
+                <li> <a href="#">Sub-1</a></li>
+                <li> <a href="#">Sub-2</a></li>
+                <li> <a href="#">Sub-3</a></li>
+            </ul>
+            </li>
+        </ul>
+    </nav>
 </body>
 </html>
